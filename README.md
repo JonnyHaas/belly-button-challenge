@@ -22,3 +22,5 @@ The dashboard utilizes D3.js for fetching and handling the dataset, Plotly.js fo
 
 Getting Started
 To get started with the dashboard, simply load the index.html file in a web browser. The data and visualizations will load automatically, ready for exploration.
+
+Check out the live demo [here](https://username.github.io/repository/).
