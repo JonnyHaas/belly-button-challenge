@@ -24,3 +24,5 @@ Getting Started
 To get started with the dashboard, simply load the index.html file in a web browser. The data and visualizations will load automatically, ready for exploration.
 
 Check out the live demo [here](https://username.github.io/repository/).
+
+I used ChatGPT to help me complete the Challenge Module and write the script in my app.js file.
