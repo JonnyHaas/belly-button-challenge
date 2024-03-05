@@ -25,8 +25,5 @@ To get started with the dashboard, simply load the index.html file in a web brow
 
 I used ChatGPT to help me write the code to successfully complete the project.
 Below are snippit's of the plots produced in the index.html.
-![alt text](image.png)
-
-![alt text](image-1.png)
 
 I was not able to get GitHub Pages to work!  My understanding is my files need to be in the "Main" Root Directory.  I simply ran out of time to complete the task by Challenge due time.  
